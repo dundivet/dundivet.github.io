@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a933721f4a631d53da1f9c8cd1e90ba6.js"
+  "/precache-manifest.bf7d92795ce872040b1b2ae715a29f4b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dundivet.github.io"});
